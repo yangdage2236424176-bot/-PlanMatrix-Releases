@@ -1,6 +1,6 @@
 {
-  "versionCode": 2,
-  "versionName": "1.1",
+  "versionCode": 3,
+  "versionName": "1.2",
   "downloadUrl": " "https://raw.githubusercontent.com/yangdage2236424176-bot/-PlanMatrix-Releases/main/app-debug.apk",",
   "releaseNotes": "1. 修复了部分 UI 细节；\n2. 增加了双排任务显示；\n3. 优化了性能。"
 }
