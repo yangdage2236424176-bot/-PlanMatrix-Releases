@@ -1,5 +1,5 @@
 {
-  "versionCode": 7,
+  "versionCode": 8,
   "versionName": "1.5",
   "downloadUrl": "https://cdn.jsdelivr.net/gh/yangdage2236424176-bot/-PlanMatrix-Releases@main/app-debug.apk",
   "releaseNotes": "1. 彻底解决更新闪退 Bug；\n2. 找回系统下载进度条；\n3. 换用全球极速 CDN 节点。"
